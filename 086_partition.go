@@ -1,6 +1,6 @@
 package leetcode_300
 
-func partition(head *ListNode, x int) *ListNode {
+func partition86(head *ListNode, x int) *ListNode {
 	bigSentry, smallSentry := &ListNode{Next: head}, &ListNode{Next: head}
 	bigTail, smallTail := bigSentry, smallSentry
 
