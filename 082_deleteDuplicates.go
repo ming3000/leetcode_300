@@ -1,6 +1,6 @@
 package leetcode_300
 
-func deleteDuplicates(head *ListNode) *ListNode {
+func deleteDuplicates82(head *ListNode) *ListNode {
 	sentry := &ListNode{Next: head}
 	pre, cur := sentry, head
 	for cur != nil {
