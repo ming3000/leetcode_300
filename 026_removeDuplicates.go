@@ -1,6 +1,6 @@
 package leetcode_300
 
-func removeDuplicates(nums []int) int {
+func removeDuplicates26First(nums []int) int {
 	if len(nums) <= 1 {
 		return len(nums)
 	}
@@ -14,7 +14,7 @@ func removeDuplicates(nums []int) int {
 	return left
 }
 
-func removeDuplicates2(nums []int) int {
+func removeDuplicates26Second(nums []int) int {
 	if len(nums) <= 1 {
 		return len(nums)
 	}
