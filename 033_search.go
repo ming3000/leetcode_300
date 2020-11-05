@@ -20,7 +20,7 @@ func findPivot(nums []int) int {
 	return 0
 }
 
-func search(nums []int, target int) int {
+func search33(nums []int, target int) int {
 	if len(nums) == 0 {
 		return -1
 	}
