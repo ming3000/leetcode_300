@@ -2,7 +2,7 @@ package leetcode_300
 
 import "sort"
 
-func merge(intervals [][]int) [][]int {
+func merge56(intervals [][]int) [][]int {
 	if len(intervals) == 0 {
 		return nil
 	}
