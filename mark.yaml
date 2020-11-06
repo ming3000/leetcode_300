@@ -24,6 +24,7 @@ tree:
   112: "hasPathSum"
   113: "pathSum"
   114: "flatten"
+  230: "kthSmallest"
   235: "lowestCommonAncestor"
   236: "lowestCommonAncestor"
   257: "binaryTreePaths"
