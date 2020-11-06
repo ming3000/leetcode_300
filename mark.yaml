@@ -3,6 +3,7 @@ two_pointer:
 
 linked_list:
   203: "minSubArrayLen"
+  234: "isPalindrome"
 
 tree:
   235: "lowestCommonAncestor"
@@ -17,7 +18,6 @@ heap:
 hash:
   242: "isAnagram"
 
-
 matrix:
   240: "searchMatrix"
 
@@ -25,4 +25,5 @@ missed:
   204: "countPrimes"
   201: "rangeBitwiseAnd"
   205: "isIsomorphic"
+  241: "diffWaysToCompute"
 
