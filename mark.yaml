@@ -5,10 +5,15 @@ linked_list:
   203: "minSubArrayLen"
 
 
+dfs:
+  216: "combinationSum3"
 
-
+heap:
+  215: "findKthLargest"
 
 
 missed:
   204: "countPrimes"
+  201: "rangeBitwiseAnd"
+  205: "isIsomorphic"
 
