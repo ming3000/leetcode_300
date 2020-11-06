@@ -5,6 +5,7 @@ two_pointer:
   88: "merge"
   125: "isPalindrome"
   209: "minSubArrayLen"
+  283: "moveZeroes"
 
 binary_search:
   33: "search"
