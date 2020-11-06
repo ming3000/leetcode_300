@@ -4,6 +4,9 @@ two_pointer:
 linked_list:
   203: "minSubArrayLen"
 
+tree:
+  235: "lowestCommonAncestor"
+  236: "lowestCommonAncestor"
 
 dfs:
   216: "combinationSum3"
@@ -11,6 +14,12 @@ dfs:
 heap:
   215: "findKthLargest"
 
+hash:
+  242: "isAnagram"
+
+
+matrix:
+  240: "searchMatrix"
 
 missed:
   204: "countPrimes"
