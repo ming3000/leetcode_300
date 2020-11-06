@@ -1,6 +1,5 @@
 two_pointer:
   3: "lengthOfLongestSubstring"
-  24: "swapPairs"
   26: "removeDuplicates"
   80: "removeDuplicates"
   88: "merge"
@@ -14,6 +13,7 @@ binary_search:
   153: "findMin"
 
 linked_list:
+  24: "swapPairs"
   82: "deleteDuplicates"
   83: "deleteDuplicates"
   92: "reverseBetween"
