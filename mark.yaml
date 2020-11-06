@@ -1,5 +1,6 @@
 two_pointer:
   3: "lengthOfLongestSubstring"
+  24: "swapPairs"
   26: "removeDuplicates"
   80: "removeDuplicates"
   88: "merge"
