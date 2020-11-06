@@ -1,3 +1,7 @@
 two_pointer:
   209: "minSubArrayLen"
 
+linked_list:
+  203: "minSubArrayLen"
+
+
