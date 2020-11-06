@@ -6,17 +6,27 @@ two_pointer:
   125: "isPalindrome"
   209: "minSubArrayLen"
 
+binary_search:
+  33: "search"
+  34: "searchRange"
+  153: "findMin"
+
 linked_list:
+  82: "deleteDuplicates"
+  83: "deleteDuplicates"
+  92: "reverseBetween"
+  148: "sortList"
   203: "removeElements"
   234: "isPalindrome"
 
 tree:
+  94: "inorderTraversal"
+  112: "hasPathSum"
+  113: "pathSum"
+  114: "flatten"
   235: "lowestCommonAncestor"
   236: "lowestCommonAncestor"
   257: "binaryTreePaths"
-
-dfs:
-  216: "combinationSum3"
 
 heap:
   215: "findKthLargest"
@@ -24,7 +34,18 @@ heap:
 hash:
   242: "isAnagram"
 
+dfs:
+  40: "combinationSum2"
+  46: "permute"
+  77: "combine"
+  78: "subsets"
+  90: "subsetsWithDup"
+  129: "sumNumbers"
+  216: "combinationSum3"
+
 dp:
+  53: "maxSubArray"
+  152: "maxProduct"
   300: "lengthOfLIS"
 
 matrix:
