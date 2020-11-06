@@ -8,6 +8,7 @@ linked_list:
 tree:
   235: "lowestCommonAncestor"
   236: "lowestCommonAncestor"
+  257: "binaryTreePaths"
 
 dfs:
   216: "combinationSum3"
@@ -18,8 +19,13 @@ heap:
 hash:
   242: "isAnagram"
 
+dp:
+  300: "lengthOfLIS"
+
 matrix:
   240: "searchMatrix"
+
+
 
 missed:
   204: "countPrimes"
