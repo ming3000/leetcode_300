@@ -1,4 +1,9 @@
 two_pointer:
+  3: "lengthOfLongestSubstring"
+  26: "removeDuplicates"
+  80: "removeDuplicates"
+  88: "merge"
+  125: "isPalindrome"
   209: "minSubArrayLen"
 
 linked_list:
@@ -31,5 +36,7 @@ missed:
   204: "countPrimes"
   201: "rangeBitwiseAnd"
   205: "isIsomorphic"
+  238: "productExceptSelf"
   241: "diffWaysToCompute"
+  258: "addDigits"
 
