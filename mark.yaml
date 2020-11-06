@@ -47,6 +47,7 @@ dfs:
   216: "combinationSum3"
 
 dp:
+  5: "longestPalindrome"
   53: "maxSubArray"
   152: "maxProduct"
   300: "lengthOfLIS"
