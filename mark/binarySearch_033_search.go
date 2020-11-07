@@ -1,6 +1,6 @@
 package mark
 
-func search(nums []int, target int) int {
+func search033(nums []int, target int) int {
 	if len(nums) == 0 {
 		return -1
 	}
