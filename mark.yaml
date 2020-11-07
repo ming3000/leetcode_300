@@ -53,7 +53,6 @@ dfs:
 dp:
   5: "longestPalindrome"
   53: "maxSubArray"
-  152: "maxProduct"
   300: "lengthOfLIS"
 
 matrix:
