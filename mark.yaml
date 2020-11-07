@@ -28,6 +28,7 @@ tree:
   112: "hasPathSum"
   113: "pathSum"
   114: "flatten"
+  145: "postorderTraversal"
   222: "countNodes"
   230: "kthSmallest"
   235: "lowestCommonAncestor"
