@@ -55,7 +55,4 @@ dp:
   53: "maxSubArray"
   300: "lengthOfLIS"
 
-matrix:
-  240: "searchMatrix"
-
 # 1107, 100
