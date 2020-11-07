@@ -1,6 +1,6 @@
 package mark
 
-func removeDuplicates(nums []int) int {
+func removeDuplicates026(nums []int) int {
 	if len(nums) <= 1 {
 		return len(nums)
 	}
