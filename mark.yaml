@@ -39,6 +39,7 @@ heap:
   215: "findKthLargest"
 
 hash:
+  219: "containsNearbyDuplicate"
   242: "isAnagram"
 
 dfs:
