@@ -33,7 +33,6 @@ tree:
   230: "kthSmallest"
   235: "lowestCommonAncestor"
   236: "lowestCommonAncestor"
-  257: "binaryTreePaths"
 
 heap:
   215: "findKthLargest"
