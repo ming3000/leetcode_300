@@ -1,6 +1,6 @@
-package leetcode_300
+package mark
 
-func search81(nums []int, target int) bool {
+func search081(nums []int, target int) bool {
 	left, right := 0, len(nums)-1
 	for left <= right {
 		mid := (left + right) / 2
@@ -21,9 +21,8 @@ func search81(nums []int, target int) bool {
 				left = mid + 1
 			} else {
 				right = mid - 1
-			}
+			} //>>>
 		} //>>
 	} //>
-
 	return false
 }

@@ -11,6 +11,7 @@ binary_search:
   33: "search"
   34: "searchRange"
   35: "searchInsert"
+  81: "search"
   153: "findMin"
 
 linked_list:
