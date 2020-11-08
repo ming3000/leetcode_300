@@ -1,19 +1,21 @@
 package mark
 
 func findMin(nums []int) int {
-	var low, high, mid int
-	low, high = 0, len(nums)-1
+	low, high := 0, len(nums)-1
+	if nums[low] <= nums[high] {
+		return nums[low]
+	}
 	for low <= high {
-		if nums[low] <= nums[high] {
-			break
-		} //>>
-		mid = (low + high) / 2
-		if nums[high] < nums[mid] {
-			low = mid + 1
+		mid := (low + high) / 2
+		if nums[mid] > nums[mid+1] {
+			return nums[mid+1]
 		} else {
-			high = mid
+			if nums[low] < nums[mid] {
+				low = mid + 1
+			} else {
+				high = mid
+			} //>>>
 		} //>>
 	} //>
-
-	return nums[low]
+	return nums[0]
 }
